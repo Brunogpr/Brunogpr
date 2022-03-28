@@ -16,8 +16,8 @@
   <img width="10%" align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img width="10%" align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img width="10%" align="center" alt="Bruno-ND" height="60" width="50" src="https://github.com/Brunogpr/icons/blob/main/nodejs/nodejs-plain-wordmark.svg">
-  <img width="10%" align="center" alt="Bruno-MySQL" height="60" width="50" src="https://github.com/Brunogpr/icons/blob/main/mysql/mysql-original.svg">
-  <img width="10%" align="center" alt="Bruno-git" height="60" width="50" src="https://github.com/Brunogpr/icons/blob/main/git/git-original.svg">
+  <img width="10%" align="center" alt="Bruno-MySQL" height="30" width="50" src="https://github.com/Brunogpr/icons/blob/main/mysql/mysql-original.svg">
+  <img width="10%" align="center" alt="Bruno-git" height="30" width="50" src="https://github.com/Brunogpr/icons/blob/main/git/git-original.svg">
 </div>
   
   ##
