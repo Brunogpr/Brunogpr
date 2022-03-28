@@ -11,8 +11,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Brunogpr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunogpr&layout=compact&langs_count=7&theme=merko"/>
 </div>  
- <div  style="display: inline_block"><br>
-  <img style="margin-left: 25px;" width="10%" align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">      
+ <div  style="margin-left: 25px;" ><br>
+  <img width="10%" align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">      
   <img width="10%" align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img width="10%" align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img width="10%" align="center" alt="Bruno-ND" height="60" width="50" src="https://github.com/Brunogpr/icons/blob/main/nodejs/nodejs-plain-wordmark.svg">
