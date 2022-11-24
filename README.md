@@ -1,7 +1,7 @@
 ### Olá! Sou o Bruno Guilherme.
 
 
-- 🔭 Atualmente trabalho como Assitente de Infraestrutura de TI.
+- 🔭 Atualmente trabalho como Analista de Infraestrutura de TI.
 - 🌱 Estou estudando NodeJS.
 - 📫 Contate-me no email: guilhermebruno-@outlook.com
 - 😄 Pronouns: ele/dele
