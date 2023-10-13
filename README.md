@@ -1,8 +1,8 @@
 ### Olá! Sou o Bruno Guilherme.
 
 
-- 🔭 Atualmente trabalho como Analista de Infraestrutura de TI.
-- 🌱 Estou estudando NodeJS.
+- 🔭 Atualmente trabalho como Analista de Infraestrutura de TI/Desenvolvedor Python.
+- 🌱 Estou fazendo curso fullstack na DevMedia.
 - 📫 Contate-me no email: guilhermebruno-@outlook.com
 - 😄 Pronouns: ele/dele
 
